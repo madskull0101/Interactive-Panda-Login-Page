@@ -13,7 +13,7 @@ This repository contains the source code for a simple and responsive login page 
 
 ## Preview
 
-![Login Page Screenshot]((https://github.com/user-attachments/assets/f12c70d4-55e4-4fda-8abf-e535798d1567)(https://github.com/user-attachments/assets/31866523-bfb8-4963-a508-f9a6d1caf266))
+![Login Page Screenshot](https://github.com/user-attachments/assets/f12c70d4-55e4-4fda-8abf-e535798d1567)
 
 
 ## Installation
